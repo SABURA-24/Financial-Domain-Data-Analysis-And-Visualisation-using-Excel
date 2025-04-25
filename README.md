@@ -5,6 +5,10 @@
 The primary goal of this project is to analyze and report on the performance of a bank's loan portfolio using excel and dashboards. The focus is on providing key metrics and trends to support data-driven decisions, enhance monitoring of lending activities, and evaluate the quality of loans disbursed by the bank.
 
 
+
+## 🖼 Dashboard Preview
+
+
 ![Screenshot (16)](https://github.com/user-attachments/assets/cc931744-ec0e-4996-a641-0aa657222ef1)
 
 
